@@ -10,6 +10,8 @@
 
 # Webserver 
 
+To view Stored data on Database
+
 http://65.0.5.138/display.php
 
 # Images 
