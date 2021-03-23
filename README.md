@@ -1,5 +1,5 @@
 # Soil-Data-Monitoring 
-# Soil Monitering system wirlessly with ESP8266 and GSM module using ESP-NOW prorocol. 
+# Soil Monitering system wirlessly with ESP8266 and GSM module using ESP-NOW prorocol and AWS. 
 # Hardware Used 
 - ESP8266 
 - ACCLIMA TDR315H 
