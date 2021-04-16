@@ -1,8 +1,8 @@
 # Soil-Data-Monitoring 
-# Soil Monitering system wirlessly with ESP8266 and GSM module using ESP-NOW prorocol and AWS. 
+# Soil Monitoring system wirelessly  with ESP8266 and GSM module using ESP-NOW protocol and AWS. 
 # Hardware Used 
 - ESP8266 
-- ACCLIMA TDR315H 
+- ACCLIMA TDR315H
 - DS18B20 
 - ANALOG SOIL MOISTURE SENSOR 
 - SIM 900A 
